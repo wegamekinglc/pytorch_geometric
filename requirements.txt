@@ -1,0 +1,15 @@
+ase
+googledrivedownloader
+h5py
+jinja2
+networkx
+numba
+numpy
+pandas
+python-louvain
+rdflib
+requests
+scikit-learn
+scipy
+torch
+tqdm
